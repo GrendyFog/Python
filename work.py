@@ -1,0 +1,10 @@
+a=1
+b=2
+print(a,"-a")
+print(b,"-b")
+c=a
+print("c:",c)
+a=b
+print("a-",a)
+b=c
+print("b-",b)
